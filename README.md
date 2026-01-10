@@ -6,6 +6,6 @@ I am a CS student in Poland, open to all collaboration and projects 😁
   You can contact me on X (formerly Twitter)
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,codepen,flask,git,github,gmail,idea,instagram,linkedin,mysql,php,ps,pycharm,py,raspberrypi,stackoverflow,threejs,twitter,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask,git,idea,linkedin,mysql,php,pycharm,py,react,threejs,twitter,vscode,windows&perline=4)](https://skillicons.dev)
 
 
